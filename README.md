@@ -16,4 +16,5 @@
 - boolean equals (IGraph m);
 - int getSize();
 - toString();
+
 Все методы должны быть представлены в интерфейсе IGraph.
